@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bogotawasuos.github.io/sitemap.xml
